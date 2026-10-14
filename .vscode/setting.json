@@ -1,0 +1,7 @@
+{
+  "[markdown]": {
+    "editor.autoIndent": "none",
+    "editor.formatOnType": false
+  },
+  "editor.detectIndentation": false
+}
